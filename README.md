@@ -1,2 +1,2 @@
 # html-study
-__ A repo for HTML learners. __
+* A repo for HTML learners. 
